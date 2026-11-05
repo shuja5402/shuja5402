@@ -1,6 +1,6 @@
-# Portfolio
 
-Personal portfolio site for Syed Shujauddin. Plain HTML, CSS and JavaScript, no build step.
+
+Personal portfolio site. Plain HTML, CSS and JavaScript, no build step.
 
 ## Run locally
 Open `index.html` in a browser, or serve the folder with any static server.
