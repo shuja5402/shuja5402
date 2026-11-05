@@ -1,16 +1,15 @@
-## Hello👋
+# Portfolio
 
-<!--
-**shuja5402/shuja5402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal portfolio site for Syed Shujauddin. Plain HTML, CSS and JavaScript, no build step.
 
-Here are some ideas to get you started:
+## Run locally
+Open `index.html` in a browser, or serve the folder with any static server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Structure
+- `index.html` — page markup
+- `css/style.css` — styles and theme colours
+- `js/main.js` — scroll effects, typing text, resume viewer
+- `assets/` — profile photo and resume
+
+## Deploy
+Works as-is on GitHub Pages, Netlify or Vercel.
